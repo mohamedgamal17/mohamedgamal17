@@ -1,9 +1,3 @@
-# 👨‍💻 Mohamed Gamal
-
-## Full Stack Developer | ASP.NET Core | Angular 
-
----
-
 ## 👋 About Me
 
 I am a **Full Stack Developer** focused on designing and building **scalable, maintainable, and production-ready systems** using modern architectural principles.
