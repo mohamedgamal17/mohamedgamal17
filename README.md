@@ -1,11 +1,49 @@
 ## Hi there 👋
 
 
-I’m a Full Stack Developer specializing in Angular and ASP.NET Core, building scalable, modular, and production-grade web applications grounded in clean architecture principles.
+## 👨‍💻 About Me
 
-Experienced in modern architectural patterns including modular monoliths and microservices, with a strong focus on Domain-Driven Design (DDD) and Test-Driven Development (TDD). I design systems with maintainability, scalability.
+I’m a **Full Stack Developer** specializing in  
 
-Passionate about continuous learning, improving engineering practices, and exploring advanced system design concepts to build robust and resilient software.
+🔷 [ASP.NET Core](https://learn.microsoft.com/aspnet/core)  
+🔷 [Angular](https://angular.io)
+
+I build **scalable**, **modular**, and **production-grade** web applications  
+grounded in 🏗️ clean architecture principles.
+
+
+
+---
+
+## 🏛️ Architecture & Engineering Approach
+
+🧱 Experienced in modern architectural patterns:
+
+- 🧩 Modular Monolith Architecture  
+- ☁️ Microservices Architecture  
+- 🎯 [Domain-Driven Design (DDD)](https://martinfowler.com/bliki/DomainDrivenDesign.html)  
+- 🧪 Test-Driven Development (TDD)  
+
+I design systems with:
+
+- 🔄 Maintainability  
+- 📈 Scalability  
+- 🧠 Clear separation of concerns  
+- 🔐 Robust and resilient structure  
+
+
+
+---
+
+## 🚀 Mindset
+
+📚 Passionate about continuous learning  
+
+⚙️ Improving engineering practices  
+
+🧠 Exploring advanced system design concepts  
+
+💡 Building software that scales and evolves  
 
 <!--
 
