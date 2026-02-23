@@ -1,61 +1,81 @@
-## Hi there 👋
+# 👨‍💻 Mohamed Gamal
 
-
-## 👨‍💻 About Me
-
-I’m a **Full Stack Developer** specializing in  
-
-🔷 [ASP.NET Core](https://learn.microsoft.com/aspnet/core)  
-🔷 [Angular](https://angular.io)
-
-I build **scalable**, **modular**, and **production-grade** web applications  
-grounded in 🏗️ clean architecture principles.
-
-
+**Full Stack Developer | ASP.NET Core | Angular**
 
 ---
 
-## 🏛️ Architecture & Engineering Approach
+## 👋 About Me
 
-🧱 Experienced in modern architectural patterns:
+Full Stack Developer focused on building **scalable**, **modular**, and **production-ready** applications using modern architectural principles.
 
-- 🧩 Modular Monolith Architecture  
-- ☁️ Microservices Architecture  
-- 🎯 [Domain-Driven Design (DDD)](https://martinfowler.com/bliki/DomainDrivenDesign.html)  
-- 🧪 Test-Driven Development (TDD)  
+I prioritize clean architecture, maintainable code, and structured system design over quick feature delivery.
 
-I design systems with:
+---
+
+## 🏛️ Architecture & Engineering
+
+Experienced with modern architectural patterns:
+
+- 🧩 **Modular Monolith Architecture**
+- ☁️ **Microservices Architecture**
+- 🎯 **Domain-Driven Design (DDD)**
+- 🧪 **Test-Driven Development (TDD)**
+
+### Core Focus
 
 - 🔄 Maintainability  
 - 📈 Scalability  
-- 🧠 Clear separation of concerns  
-- 🔐 Robust and resilient structure  
-
-
+- 🧠 Clear Architecture  
+- 🔐 Security & Performance  
 
 ---
 
-## 🚀 Mindset
+## 🛠️ Tech Stack
 
-📚 Passionate about continuous learning  
+### 🔷 Backend
 
-⚙️ Improving engineering practices  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-🧠 Exploring advanced system design concepts  
+---
 
-💡 Building software that scales and evolves  
+### 🔷 Frontend
 
-<!--
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
+---
 
-Here are some ideas to get you started:
+### 🔷 Tools & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Professional Growth
+
+I continuously improve by:
+
+- 🔍 Studying advanced system design patterns  
+- ⚡ Optimizing architecture and performance decisions  
+- 🧪 Writing high-quality automated tests  
+- 📦 Exploring scalable distributed system design  
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](Your%20Link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=googlechrome&logoColor=white)](Your%20Link)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Your%20Email)
