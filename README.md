@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+
+I’m a Full Stack Developer specializing in Angular and ASP.NET Core, building scalable, modular, and production-grade web applications grounded in clean architecture principles.
+
+Experienced in modern architectural patterns including modular monoliths and microservices, with a strong focus on Domain-Driven Design (DDD) and Test-Driven Development (TDD). I design systems with maintainability, scalability.
+
+Passionate about continuous learning, improving engineering practices, and exploring advanced system design concepts to build robust and resilient software.
+
 <!--
-**mohamedgamal17/mohamedgamal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
