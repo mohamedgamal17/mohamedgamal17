@@ -21,13 +21,6 @@ Experienced with modern architectural patterns:
 - 🎯 **Domain-Driven Design (DDD)**
 - 🧪 **Test-Driven Development (TDD)**
 
-### Core Focus
-
-- 🔄 Maintainability  
-- 📈 Scalability  
-- 🧠 Clear Architecture  
-- 🔐 Security & Performance  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -37,7 +30,7 @@ Experienced with modern architectural patterns:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
@@ -63,19 +56,4 @@ Experienced with modern architectural patterns:
 
 ---
 
-## 🚀 Professional Growth
 
-I continuously improve by:
-
-- 🔍 Studying advanced system design patterns  
-- ⚡ Optimizing architecture and performance decisions  
-- 🧪 Writing high-quality automated tests  
-- 📦 Exploring scalable distributed system design  
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](Your%20Link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=googlechrome&logoColor=white)](Your%20Link)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Your%20Email)
