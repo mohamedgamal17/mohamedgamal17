@@ -23,14 +23,6 @@ Experienced with modern software architecture patterns:
 - 🎯 **Domain-Driven Design (DDD)**
 - 🧪 **Test-Driven Development (TDD)**
 
-I design systems with focus on:
-
-- 🔄 Maintainability  
-- 📈 Scalability  
-- 🏗 Clean separation of concerns  
-- 🔐 Security & Performance  
-- ⚡ Extensibility for future growth  
-
 ---
 
 ## 🛠️ Technical Skills
