@@ -1,6 +1,6 @@
 # 👨‍💻 Mohamed Gamal
 
-## Full Stack Developer | ASP.NET Core | Angular | Clean Architecture Enthusiast
+## Full Stack Developer | ASP.NET Core | Angular 
 
 ---
 
